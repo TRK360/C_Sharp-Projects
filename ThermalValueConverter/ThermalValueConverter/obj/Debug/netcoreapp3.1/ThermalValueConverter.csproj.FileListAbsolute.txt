@@ -1,0 +1,14 @@
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_10\ThermalValueConverter\ThermalValueConverter\bin\Debug\netcoreapp3.1\ThermalValueConverter.exe
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_10\ThermalValueConverter\ThermalValueConverter\bin\Debug\netcoreapp3.1\ThermalValueConverter.deps.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_10\ThermalValueConverter\ThermalValueConverter\bin\Debug\netcoreapp3.1\ThermalValueConverter.runtimeconfig.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_10\ThermalValueConverter\ThermalValueConverter\bin\Debug\netcoreapp3.1\ThermalValueConverter.runtimeconfig.dev.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_10\ThermalValueConverter\ThermalValueConverter\bin\Debug\netcoreapp3.1\ThermalValueConverter.dll
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_10\ThermalValueConverter\ThermalValueConverter\bin\Debug\netcoreapp3.1\ThermalValueConverter.pdb
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_10\ThermalValueConverter\ThermalValueConverter\obj\Debug\netcoreapp3.1\ThermalValueConverter.csproj.AssemblyReference.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_10\ThermalValueConverter\ThermalValueConverter\obj\Debug\netcoreapp3.1\ThermalValueConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_10\ThermalValueConverter\ThermalValueConverter\obj\Debug\netcoreapp3.1\ThermalValueConverter.AssemblyInfoInputs.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_10\ThermalValueConverter\ThermalValueConverter\obj\Debug\netcoreapp3.1\ThermalValueConverter.AssemblyInfo.cs
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_10\ThermalValueConverter\ThermalValueConverter\obj\Debug\netcoreapp3.1\ThermalValueConverter.csproj.CoreCompileInputs.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_10\ThermalValueConverter\ThermalValueConverter\obj\Debug\netcoreapp3.1\ThermalValueConverter.dll
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_10\ThermalValueConverter\ThermalValueConverter\obj\Debug\netcoreapp3.1\ThermalValueConverter.pdb
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_10\ThermalValueConverter\ThermalValueConverter\obj\Debug\netcoreapp3.1\ThermalValueConverter.genruntimeconfig.cache
