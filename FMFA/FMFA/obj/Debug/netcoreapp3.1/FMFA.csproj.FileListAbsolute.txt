@@ -1,0 +1,14 @@
+C:\Users\mturk\Desktop\Basic_C#_Programs\FMFA\FMFA\FMFA\bin\Debug\netcoreapp3.1\FMFA.exe
+C:\Users\mturk\Desktop\Basic_C#_Programs\FMFA\FMFA\FMFA\bin\Debug\netcoreapp3.1\FMFA.deps.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\FMFA\FMFA\FMFA\bin\Debug\netcoreapp3.1\FMFA.runtimeconfig.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\FMFA\FMFA\FMFA\bin\Debug\netcoreapp3.1\FMFA.runtimeconfig.dev.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\FMFA\FMFA\FMFA\bin\Debug\netcoreapp3.1\FMFA.dll
+C:\Users\mturk\Desktop\Basic_C#_Programs\FMFA\FMFA\FMFA\bin\Debug\netcoreapp3.1\FMFA.pdb
+C:\Users\mturk\Desktop\Basic_C#_Programs\FMFA\FMFA\FMFA\obj\Debug\netcoreapp3.1\FMFA.csproj.AssemblyReference.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\FMFA\FMFA\FMFA\obj\Debug\netcoreapp3.1\FMFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mturk\Desktop\Basic_C#_Programs\FMFA\FMFA\FMFA\obj\Debug\netcoreapp3.1\FMFA.AssemblyInfoInputs.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\FMFA\FMFA\FMFA\obj\Debug\netcoreapp3.1\FMFA.AssemblyInfo.cs
+C:\Users\mturk\Desktop\Basic_C#_Programs\FMFA\FMFA\FMFA\obj\Debug\netcoreapp3.1\FMFA.csproj.CoreCompileInputs.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\FMFA\FMFA\FMFA\obj\Debug\netcoreapp3.1\FMFA.dll
+C:\Users\mturk\Desktop\Basic_C#_Programs\FMFA\FMFA\FMFA\obj\Debug\netcoreapp3.1\FMFA.pdb
+C:\Users\mturk\Desktop\Basic_C#_Programs\FMFA\FMFA\FMFA\obj\Debug\netcoreapp3.1\FMFA.genruntimeconfig.cache
