@@ -1,0 +1,14 @@
+C:\Users\mturk\Desktop\Basic_C#_Programs\combo\Multi-Property-Methods\Multi-Property-Methods\bin\Debug\netcoreapp3.1\Multi-Property-Methods.exe
+C:\Users\mturk\Desktop\Basic_C#_Programs\combo\Multi-Property-Methods\Multi-Property-Methods\bin\Debug\netcoreapp3.1\Multi-Property-Methods.deps.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\combo\Multi-Property-Methods\Multi-Property-Methods\bin\Debug\netcoreapp3.1\Multi-Property-Methods.runtimeconfig.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\combo\Multi-Property-Methods\Multi-Property-Methods\bin\Debug\netcoreapp3.1\Multi-Property-Methods.runtimeconfig.dev.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\combo\Multi-Property-Methods\Multi-Property-Methods\bin\Debug\netcoreapp3.1\Multi-Property-Methods.dll
+C:\Users\mturk\Desktop\Basic_C#_Programs\combo\Multi-Property-Methods\Multi-Property-Methods\bin\Debug\netcoreapp3.1\Multi-Property-Methods.pdb
+C:\Users\mturk\Desktop\Basic_C#_Programs\combo\Multi-Property-Methods\Multi-Property-Methods\obj\Debug\netcoreapp3.1\Multi-Property-Methods.csproj.AssemblyReference.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\combo\Multi-Property-Methods\Multi-Property-Methods\obj\Debug\netcoreapp3.1\Multi-Property-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mturk\Desktop\Basic_C#_Programs\combo\Multi-Property-Methods\Multi-Property-Methods\obj\Debug\netcoreapp3.1\Multi-Property-Methods.AssemblyInfoInputs.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\combo\Multi-Property-Methods\Multi-Property-Methods\obj\Debug\netcoreapp3.1\Multi-Property-Methods.AssemblyInfo.cs
+C:\Users\mturk\Desktop\Basic_C#_Programs\combo\Multi-Property-Methods\Multi-Property-Methods\obj\Debug\netcoreapp3.1\Multi-Property-Methods.csproj.CoreCompileInputs.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\combo\Multi-Property-Methods\Multi-Property-Methods\obj\Debug\netcoreapp3.1\Multi-Property-Methods.dll
+C:\Users\mturk\Desktop\Basic_C#_Programs\combo\Multi-Property-Methods\Multi-Property-Methods\obj\Debug\netcoreapp3.1\Multi-Property-Methods.pdb
+C:\Users\mturk\Desktop\Basic_C#_Programs\combo\Multi-Property-Methods\Multi-Property-Methods\obj\Debug\netcoreapp3.1\Multi-Property-Methods.genruntimeconfig.cache
