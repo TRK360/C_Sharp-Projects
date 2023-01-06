@@ -1,0 +1,14 @@
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_14\AbstractInheritence\AbstractInheritence\bin\Debug\netcoreapp3.1\AbstractInheritence.exe
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_14\AbstractInheritence\AbstractInheritence\bin\Debug\netcoreapp3.1\AbstractInheritence.deps.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_14\AbstractInheritence\AbstractInheritence\bin\Debug\netcoreapp3.1\AbstractInheritence.runtimeconfig.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_14\AbstractInheritence\AbstractInheritence\bin\Debug\netcoreapp3.1\AbstractInheritence.runtimeconfig.dev.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_14\AbstractInheritence\AbstractInheritence\bin\Debug\netcoreapp3.1\AbstractInheritence.dll
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_14\AbstractInheritence\AbstractInheritence\bin\Debug\netcoreapp3.1\AbstractInheritence.pdb
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_14\AbstractInheritence\AbstractInheritence\obj\Debug\netcoreapp3.1\AbstractInheritence.csproj.AssemblyReference.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_14\AbstractInheritence\AbstractInheritence\obj\Debug\netcoreapp3.1\AbstractInheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_14\AbstractInheritence\AbstractInheritence\obj\Debug\netcoreapp3.1\AbstractInheritence.AssemblyInfoInputs.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_14\AbstractInheritence\AbstractInheritence\obj\Debug\netcoreapp3.1\AbstractInheritence.AssemblyInfo.cs
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_14\AbstractInheritence\AbstractInheritence\obj\Debug\netcoreapp3.1\AbstractInheritence.csproj.CoreCompileInputs.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_14\AbstractInheritence\AbstractInheritence\obj\Debug\netcoreapp3.1\AbstractInheritence.dll
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_14\AbstractInheritence\AbstractInheritence\obj\Debug\netcoreapp3.1\AbstractInheritence.pdb
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_14\AbstractInheritence\AbstractInheritence\obj\Debug\netcoreapp3.1\AbstractInheritence.genruntimeconfig.cache
