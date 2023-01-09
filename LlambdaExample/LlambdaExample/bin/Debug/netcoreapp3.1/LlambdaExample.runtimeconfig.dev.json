@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\mturk\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\mturk\\.nuget\\packages"
-    ]
-  }
-}
