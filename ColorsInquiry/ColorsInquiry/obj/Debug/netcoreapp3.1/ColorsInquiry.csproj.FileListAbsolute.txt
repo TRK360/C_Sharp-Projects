@@ -1,0 +1,14 @@
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_16\ColorsInquiry\ColorsInquiry\bin\Debug\netcoreapp3.1\ColorsInquiry.exe
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_16\ColorsInquiry\ColorsInquiry\bin\Debug\netcoreapp3.1\ColorsInquiry.deps.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_16\ColorsInquiry\ColorsInquiry\bin\Debug\netcoreapp3.1\ColorsInquiry.runtimeconfig.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_16\ColorsInquiry\ColorsInquiry\bin\Debug\netcoreapp3.1\ColorsInquiry.runtimeconfig.dev.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_16\ColorsInquiry\ColorsInquiry\bin\Debug\netcoreapp3.1\ColorsInquiry.dll
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_16\ColorsInquiry\ColorsInquiry\bin\Debug\netcoreapp3.1\ColorsInquiry.pdb
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_16\ColorsInquiry\ColorsInquiry\obj\Debug\netcoreapp3.1\ColorsInquiry.csproj.AssemblyReference.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_16\ColorsInquiry\ColorsInquiry\obj\Debug\netcoreapp3.1\ColorsInquiry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_16\ColorsInquiry\ColorsInquiry\obj\Debug\netcoreapp3.1\ColorsInquiry.AssemblyInfoInputs.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_16\ColorsInquiry\ColorsInquiry\obj\Debug\netcoreapp3.1\ColorsInquiry.AssemblyInfo.cs
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_16\ColorsInquiry\ColorsInquiry\obj\Debug\netcoreapp3.1\ColorsInquiry.csproj.CoreCompileInputs.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_16\ColorsInquiry\ColorsInquiry\obj\Debug\netcoreapp3.1\ColorsInquiry.dll
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_16\ColorsInquiry\ColorsInquiry\obj\Debug\netcoreapp3.1\ColorsInquiry.pdb
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_16\ColorsInquiry\ColorsInquiry\obj\Debug\netcoreapp3.1\ColorsInquiry.genruntimeconfig.cache
