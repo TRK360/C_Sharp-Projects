@@ -1,0 +1,14 @@
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_17\LlambdaExample\LlambdaExample\bin\Debug\netcoreapp3.1\LlambdaExample.exe
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_17\LlambdaExample\LlambdaExample\bin\Debug\netcoreapp3.1\LlambdaExample.deps.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_17\LlambdaExample\LlambdaExample\bin\Debug\netcoreapp3.1\LlambdaExample.runtimeconfig.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_17\LlambdaExample\LlambdaExample\bin\Debug\netcoreapp3.1\LlambdaExample.runtimeconfig.dev.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_17\LlambdaExample\LlambdaExample\bin\Debug\netcoreapp3.1\LlambdaExample.dll
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_17\LlambdaExample\LlambdaExample\bin\Debug\netcoreapp3.1\LlambdaExample.pdb
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_17\LlambdaExample\LlambdaExample\obj\Debug\netcoreapp3.1\LlambdaExample.csproj.AssemblyReference.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_17\LlambdaExample\LlambdaExample\obj\Debug\netcoreapp3.1\LlambdaExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_17\LlambdaExample\LlambdaExample\obj\Debug\netcoreapp3.1\LlambdaExample.AssemblyInfoInputs.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_17\LlambdaExample\LlambdaExample\obj\Debug\netcoreapp3.1\LlambdaExample.AssemblyInfo.cs
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_17\LlambdaExample\LlambdaExample\obj\Debug\netcoreapp3.1\LlambdaExample.csproj.CoreCompileInputs.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_17\LlambdaExample\LlambdaExample\obj\Debug\netcoreapp3.1\LlambdaExample.dll
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_17\LlambdaExample\LlambdaExample\obj\Debug\netcoreapp3.1\LlambdaExample.pdb
+C:\Users\mturk\Desktop\Basic_C#_Programs\Assignment_17\LlambdaExample\LlambdaExample\obj\Debug\netcoreapp3.1\LlambdaExample.genruntimeconfig.cache
