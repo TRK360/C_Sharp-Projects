@@ -1,0 +1,17 @@
+C:\Users\mturk\Desktop\Basic_C#_Programs\ArtStudentList\ArtStudentDirectory\ArtStudentDirectory\obj\Debug\netcoreapp3.1\ArtStudentDirectory.csproj.AssemblyReference.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\ArtStudentList\ArtStudentDirectory\ArtStudentDirectory\obj\Debug\netcoreapp3.1\ArtStudentDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mturk\Desktop\Basic_C#_Programs\ArtStudentList\ArtStudentDirectory\ArtStudentDirectory\obj\Debug\netcoreapp3.1\ArtStudentDirectory.AssemblyInfoInputs.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\ArtStudentList\ArtStudentDirectory\ArtStudentDirectory\obj\Debug\netcoreapp3.1\ArtStudentDirectory.AssemblyInfo.cs
+C:\Users\mturk\Desktop\Basic_C#_Programs\ArtStudentList\ArtStudentDirectory\ArtStudentDirectory\obj\Debug\netcoreapp3.1\ArtStudentDirectory.csproj.CoreCompileInputs.cache
+C:\Users\mturk\Desktop\Basic_C#_Programs\ArtStudentList\ArtStudentDirectory\ArtStudentDirectory\bin\Debug\netcoreapp3.1\ArtStudentDirectory.exe
+C:\Users\mturk\Desktop\Basic_C#_Programs\ArtStudentList\ArtStudentDirectory\ArtStudentDirectory\bin\Debug\netcoreapp3.1\ArtStudentDirectory.deps.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\ArtStudentList\ArtStudentDirectory\ArtStudentDirectory\bin\Debug\netcoreapp3.1\ArtStudentDirectory.runtimeconfig.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\ArtStudentList\ArtStudentDirectory\ArtStudentDirectory\bin\Debug\netcoreapp3.1\ArtStudentDirectory.runtimeconfig.dev.json
+C:\Users\mturk\Desktop\Basic_C#_Programs\ArtStudentList\ArtStudentDirectory\ArtStudentDirectory\bin\Debug\netcoreapp3.1\ArtStudentDirectory.dll
+C:\Users\mturk\Desktop\Basic_C#_Programs\ArtStudentList\ArtStudentDirectory\ArtStudentDirectory\bin\Debug\netcoreapp3.1\ArtStudentDirectory.pdb
+C:\Users\mturk\Desktop\Basic_C#_Programs\ArtStudentList\ArtStudentDirectory\ArtStudentDirectory\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\mturk\Desktop\Basic_C#_Programs\ArtStudentList\ArtStudentDirectory\ArtStudentDirectory\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\mturk\Desktop\Basic_C#_Programs\ArtStudentList\ArtStudentDirectory\ArtStudentDirectory\obj\Debug\netcoreapp3.1\ArtStudentDirectory.csproj.CopyComplete
+C:\Users\mturk\Desktop\Basic_C#_Programs\ArtStudentList\ArtStudentDirectory\ArtStudentDirectory\obj\Debug\netcoreapp3.1\ArtStudentDirectory.dll
+C:\Users\mturk\Desktop\Basic_C#_Programs\ArtStudentList\ArtStudentDirectory\ArtStudentDirectory\obj\Debug\netcoreapp3.1\ArtStudentDirectory.pdb
+C:\Users\mturk\Desktop\Basic_C#_Programs\ArtStudentList\ArtStudentDirectory\ArtStudentDirectory\obj\Debug\netcoreapp3.1\ArtStudentDirectory.genruntimeconfig.cache
