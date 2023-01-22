@@ -17,7 +17,8 @@ Project_4:
 - Package Express is a console app which applies verification controls inside of classes to qualify shipability and produces different cost estimates based on the user's input.  
 
 
-Project_5: - Do While Loop is a console app that utilizes indexing through an array, intitializes an index value to navigate and replies with the respective value until a limitation is encountered.
+Project_5: 
+- Do While Loop is a console app that utilizes indexing through an array, intitializes an index value to navigate and replies with the respective value until a limitation is encountered.
 
 
 Project_6: 
@@ -32,7 +33,8 @@ Project_8:
 - Error Handling is a console app that receives input of integer type and incorporates a try/catch block and a finally block in order to make sure the program doesn't crash.
 
 
-Project_10: - Thermal Value Calculator is a console app that a user selects the type of input they are applying and the class has a corresponding method.  This incorporates if rules, foreach loops and contains separate class files.
+Project_10: 
+- Thermal Value Calculator is a console app that a user selects the type of input they are applying and the class has a corresponding method.  This incorporates if rules, foreach loops and contains separate class files.
 
 
 Project_11: 
@@ -56,7 +58,7 @@ Project_18:
 
 
 Project_19: 
-Constructor Chain is a console app that has pre-coded values within a class and a constant is applied to the program which calls these items to chain through one another for producing the final result.
+- Constructor Chain is a console app that has pre-coded values within a class and a constant is applied to the program which calls these items to chain through one another for producing the final result.
 
 
 Code First DB: 
