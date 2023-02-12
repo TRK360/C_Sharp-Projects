@@ -14,7 +14,7 @@ This Story introduced the core of the future work.  I received a Schema for gene
 SQL Server accessible to other parts of the Web MVC App. Per the code snippet below, as well as adding a Db Set Command in the Identity controller. 
  
 
-![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/Code Snippet 1.jpg)
+![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet1.jpg)
 
 After confirming that the DataBase table was created with all of the proper Schema elements, nullables, primary key, etc. I then added a new 
 scaffolded item, selecting the MVC pre-determined views and was able to successfully generate several views and a controller all of which communicated 
@@ -30,7 +30,7 @@ focused versus inactive all whilst adhering to a customer color scheme.  Please 
 ![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg)
 	
 			
-![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/Code Snippet 2.jpg)
+![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet2.jpg)
 
 Front-End  Styling Index Page and Reformatting Table Layout-
 
@@ -39,7 +39,7 @@ formatted into a table which organized the respecive items in a manner disagreea
 changes as well as some If rule logic built into the Cshtml of the view page.  Please see code snippet below to control which information was 
 displayed.
 
-![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/Code Snippet 3.jpg)
+![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet3.jpg)
 
 		
 After updating the Back-End Items as well as a few of the front end itmes to control the end view result, I applied some CSS specifically to the 
@@ -53,10 +53,7 @@ This Story introduced a change to the original database.  I needed to dive into 
 the view controller to pass the additional parameter as was required.  The first story Back-End code snippet demonstrates the class that was later
 modified.
 			
-The 
-![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg)
-
-Live Project experience introduced several additional forms of training beyond the specifics of Code Syntax and Development process basics.  Utilizing Azure 
+The Live Project experience introduced several additional forms of training beyond the specifics of Code Syntax and Development process basics.  Utilizing Azure 
 DevOps via their web portal, whilst also using a server on Discord to manage day to day team communications, a much more solid comprehension of how a Dev team 
 behaves and functions was learned.  Furthermore, frequent use of Git Changes, commits, merges and the necessary consciensciousness of other people's work really 
 drove home the idea of version control.  Additionally, several new research tools were communicated and shared amongst the group, this notably increased my 
