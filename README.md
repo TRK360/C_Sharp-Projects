@@ -1,5 +1,5 @@
 
-## Project Synapeses
+## Project Synapses
 <br />
 As my time comes to a close with The Tech Academy, I want to offer a detailed explanation of the education earned in the Live Project for the C# and .NET Boot 
 Camp.  First, the Live Project is intended to cumulate much or all of the knowledge gained in the whole Boot Camp.  Secondly, the Live project is in the context 
@@ -10,7 +10,7 @@ portion of the website included building a code first database to house the info
 existing website.  The intent was to make User Forms that would accommodate the information needing entry to the website.
 <br /><br />
 <br />
-<br />
+
 
 ## Case Studies
 
