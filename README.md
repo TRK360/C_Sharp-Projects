@@ -36,7 +36,6 @@ In the following scenarios, I will identify each with a preface of Front-End or 
   focused versus inactive all whilst adhering to a customer color scheme.  Please see some of the .CSS noted below.
 		
 <br />
-
 ## Front-End Sample
 <br />
 <img src="https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg" width=400 align="right"/>
