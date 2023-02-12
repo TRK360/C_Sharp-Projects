@@ -34,7 +34,7 @@ In the following scenarios, I will identify each with a preface of Front-End or 
   This Story applied my CSS skills to modify the format of each of the elements pre-set by the scaffolding mentioned above.  I needed to create a 
   container class for all page elements, I then had to add several classes to modify elements such as input field border colors, font colors while 
   focused versus inactive all whilst adhering to a customer color scheme.  Please see some of the .CSS noted below.		
-<br />
+<br /><br />
 
 ## Front-End Sample
 <br />
