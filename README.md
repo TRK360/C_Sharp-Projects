@@ -15,7 +15,7 @@ In the following scenarios, I will identify each with a preface of Front-End or 
   SQL Server accessible to other parts of the Web MVC App. Per the code snippet below, as well as adding a Db Set Command in the Identity controller. 
  
 
-![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet1.jpg)
+![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet1.jpg?raw=true)
 
   After confirming that the DataBase table was created with all of the proper Schema elements, nullables, primary key, etc. I then added a new 
   scaffolded item, selecting the MVC pre-determined views and was able to successfully generate several views and a controller all of which communicated 
@@ -32,9 +32,9 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 ![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg)
 
 
-<div style="width:60px ; height:1000px">
+<div style="width:60px ; height:100px">
 
-![<img src="[https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg" width="500" height="300"/>>](https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg)
+![<img src="[https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg?raw=true" width="60" height="100"/>>](https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg?raw=true)
 </div>
 
 
