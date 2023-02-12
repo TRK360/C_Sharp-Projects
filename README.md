@@ -9,7 +9,7 @@ existing website.  The intent was to make User Forms that would accommodate the 
 In the following scenarios, I will identify each with a preface of Front-End or Back-End referencing the specific scenario gaol.
 <br />
 
-**-Back-End  Building Data Entity Model and scaffolding CRUD Pages-**
+**- Back-End  Building Data Entity Model and scaffolding CRUD Pages -**
 
   This Story introduced the core of the future work.  I received a Schema for generating a class which would produce a DataBase on a pre-determined 
   SQL Server accessible to other parts of the Web MVC App. Per the code snippet below, as well as adding a Db Set Command in the Identity controller. 
@@ -23,7 +23,7 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 
 <br />
 
-**-Front-End  Styling Create and Edit Pages-**
+**- Front-End  Styling Create and Edit Pages -**
 
   This Story applied my CSS skills to modify the format of each of the elements pre-set by the scaffolding mentioned above.  I needed to create a 
   container class for all page elements, I then had to add several classes to modify elements such as input field border colors, font colors while 
@@ -31,14 +31,14 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 		
 ![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg)
 
-![<img src="[https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg" width="120px" />)]()
+![<img src="[https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg" height="170px width="200px" />)]((https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg))
 
 
 	
 			
 ![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet2.jpg)
 
-**-Front-End  Styling Index Page and Reformatting Table Layout-**
+**- Front-End  Styling Index Page and Reformatting Table Layout -**
 
   This Story rather drastically altered the Html and Css for the Index page.  The basic information provided as a result of the scaffolding was 
   formatted into a table which organized the respecive items in a manner disagreeable to the customer's needs.  It required the below noted Back-End 
@@ -53,7 +53,7 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 <br />
 <br />
 
-**-Back-End  Adding Description Parameter to initial Database and Updating Controller-**
+**- Back-End  Adding Description Parameter to initial Database and Updating Controller -**
 
   This Story introduced a change to the original database.  I needed to dive into the class and add a parameter for Descriptions, and then update 
   the view controller to pass the additional parameter as was required.  The first story Back-End code snippet demonstrates the class that was later
