@@ -55,7 +55,7 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 		
   After updating the Back-End Items as well as a few of the front end itmes to control the end view result, I applied some CSS specifically to the 
   table contents as well as header elements.
-  
+   <br />
   ## Back-End Sample
 ![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet3.jpg)
 
