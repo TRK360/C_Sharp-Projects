@@ -29,9 +29,8 @@ In the following scenarios, I will identify each with a preface of Front-End or 
   container class for all page elements, I then had to add several classes to modify elements such as input field border colors, font colors while 
   focused versus inactive all whilst adhering to a customer color scheme.  Please see some of the .CSS noted below.
 		
-<![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg)>
+![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg =170x200)
 
-<img src="(https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg)" alt="drawing" width="150" height="214" border="0">
 	
 			
 ![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet2.jpg)
