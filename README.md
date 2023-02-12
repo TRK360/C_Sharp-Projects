@@ -30,8 +30,6 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 ![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet1.jpg?raw=true)
 
 <br />
-<br />
-
 
  **- Styling Create and Edit Pages -**
 
@@ -55,6 +53,7 @@ In the following scenarios, I will identify each with a preface of Front-End or 
   formatted into a table which organized the respecive items in a manner disagreeable to the customer's needs.  It required the below noted Back-End 
   changes as well as some If rule logic built into the Cshtml of the view page.  Please see code snippet below to control which information was 
   displayed.
+  <br />
 ## Back-End Sample
 ![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet3.jpg)
 
