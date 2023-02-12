@@ -60,6 +60,7 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 ![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet3.jpg)
 
 <br />
+<br />
 
 **- Back-End  Adding Description Parameter to initial Database and Updating Controller -**
 
@@ -69,7 +70,7 @@ In the following scenarios, I will identify each with a preface of Front-End or 
   
 <br />
 <br />
-<br />
+
 
   The Live Project experience introduced several additional forms of training beyond the specifics of Code Syntax and Development process basics.  Utilizing Azure 
   DevOps via their web portal, whilst also using a server on Discord to manage day to day team communications, a much more solid comprehension of how a Dev team 
@@ -79,7 +80,6 @@ In the following scenarios, I will identify each with a preface of Front-End or 
   Mechanical Engineering and Facility/Plant Management, the sense of respect to obligations and deadlines demonstrated through the SCRUM management philosophy that 
   was demonstrated during the Live Project was very impactful in itself. 
  <br /> 
- <br />
  <br />
  
  # Table of Contents
