@@ -1,5 +1,6 @@
 
 ## Project Synapeses
+<br />
 As my time comes to a close with The Tech Academy, I want to offer a detailed explanation of the education earned in the Live Project for the C# and .NET Boot 
 Camp.  First, the Live Project is intended to cumulate much or all of the knowledge gained in the whole Boot Camp.  Secondly, the Live project is in the context 
 of a real-life development team environment.  The scope of work for my Live Project experience aimed at a client, with demand for a Back End setup to accommodate 
@@ -35,7 +36,9 @@ In the following scenarios, I will identify each with a preface of Front-End or 
   focused versus inactive all whilst adhering to a customer color scheme.  Please see some of the .CSS noted below.
 		
 <br />
+
 ## Front-End Sample
+<br />
 <img src="https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg" width=400 align="right"/>
 			
 <img src="https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet2.jpg" width=450 align="left"/>
