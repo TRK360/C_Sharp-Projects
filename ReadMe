@@ -15,8 +15,7 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 		SQL Server accessible to other parts of the Web MVC App. Per the code snippet below, as well as adding a Db Set Command in the Identity controller. 
  
 
-			<img src="![Code Snippet 1](https://user-images.githubusercontent.com/117139528/218326398-c332bff8-bb0b-4857-8df4-4a2c3f2a0d5e.jpg)" alt="Alt text" title="Optional title">
-
+			![alt text](https://github.com/TRK360/C_Sharp-Projects/commit/4856212f2f5495149df5054f52d1f8023cf977b8)
 
 		After confirming that the DataBase table was created with all of the proper Schema elements, nullables, primary key, etc. I then added a new 
 		scaffolded item, selecting the MVC pre-determined views and was able to successfully generate several views and a controller all of which communicated 
