@@ -33,13 +33,13 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 
 
 
-<img src="[https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg"/>
+<img src="https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg" width=300 align=right/>
 
 
 
 	
 			
-![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet2.jpg style="float:right")
+![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet2.jpg")
 
 
 **- Front-End  Styling Index Page and Reformatting Table Layout -**
