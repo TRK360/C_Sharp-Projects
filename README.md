@@ -64,6 +64,8 @@ In the following scenarios, I will identify each with a preface of Front-End or 
   Mechanical Engineering and Facility/Plant Management, the sense of respect to obligations and deadlines demonstrated through the SCRUM management philosophy that 
   was demonstrated during the Live Project was very impactful in itself. 
  <br /> 
+ <br />
+ <br />
 Footer
 © 2023 GitHub, Inc.
 Footer navigation
