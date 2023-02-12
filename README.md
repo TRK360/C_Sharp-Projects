@@ -5,9 +5,9 @@ data entry and updates without requiring Code Based Html additions/changes.  The
 took a specific piece of.  My particular contribution pertained to the Events Calendar controller and respective views.  The general overview of Calendar Events 
 portion of the website included building a code first database to house the information entries, build a model of views and a controller to add new features to the 
 existing website.  The intent was to make User Forms that would accommodate the information needing entry to the website.
-<br />
+<br /><br /><br />
 In the following scenarios, I will identify each with a preface of Front-End or Back-End referencing the specific scenario gaol.
-<br />
+<br /><br />
 
 **- Back-End  Building Data Entity Model and scaffolding CRUD Pages -**
 
