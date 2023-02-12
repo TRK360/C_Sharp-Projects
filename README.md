@@ -28,9 +28,7 @@ In the following scenarios, I will identify each with a preface of Front-End or 
  
 
 ![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet1.jpg?raw=true)
-
 <br />
-
  **- Styling Create and Edit Pages -**
 
   This Story applied my CSS skills to modify the format of each of the elements pre-set by the scaffolding mentioned above.  I needed to create a 
