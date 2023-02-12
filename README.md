@@ -80,6 +80,9 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 4. [Back-End Sample](#Back-End Sample)
  
  <br />
+ Jump to: Project Synapses, Case Studies, Front-End Sample, Back-End Sample
+
+
  <br />
 Footer
 © 2023 GitHub, Inc.
