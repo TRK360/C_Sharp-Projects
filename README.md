@@ -39,9 +39,9 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 
 	
 			
-<img src="https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet2.jpg width=400 align="center"/>
+<img src="https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet2.jpg" width=400 align="center"/>
 
-
+<br />
 **- Front-End  Styling Index Page and Reformatting Table Layout -**
 
   This Story rather drastically altered the Html and Css for the Index page.  The basic information provided as a result of the scaffolding was 
