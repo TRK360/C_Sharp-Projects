@@ -23,7 +23,7 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 
 <br />
 
-**- Front-End  Styling Create and Edit Pages -**
+**- ![#157500](https://placehold.it/20/157500?text=+)Front-End** **Styling Create and Edit Pages -**
 
   This Story applied my CSS skills to modify the format of each of the elements pre-set by the scaffolding mentioned above.  I needed to create a 
   container class for all page elements, I then had to add several classes to modify elements such as input field border colors, font colors while 
