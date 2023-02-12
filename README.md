@@ -6,10 +6,9 @@ took a specific piece of.  My particular contribution pertained to the Events Ca
 portion of the website included building a code first database to house the information entries, build a model of views and a controller to add new features to the 
 existing website.  The intent was to make User Forms that would accommodate the information needing entry to the website.
 
-
 In the following scenarios, I will identify each with a preface of Front-End or Back-End referencing the specific scenario gaol.
 
-	Back-End:  Building Data Entity Model and scaffolding CRUD Pages
+	Back-End  Building Data Entity Model and scaffolding CRUD Pages
 
 		This Story introduced the core of the future work.  I received a Schema for generating a class which would produce a DataBase on a pre-determined 
 		SQL Server accessible to other parts of the Web MVC App. Per the code snippet below, as well as adding a Db Set Command in the Identity controller. 
@@ -22,7 +21,7 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 		properly to the DataBase.
 
 
-	Front-End:  Styling Create and Edit Pages
+	Front-End  Styling Create and Edit Pages
 
 		This Story applied my CSS skills to modify the format of each of the elements pre-set by the scaffolding mentioned above.  I needed to create a 
 		container class for all page elements, I then had to add several classes to modify elements such as input field border colors, font colors while 
@@ -33,7 +32,7 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 			
 			![alt image name]https://user-images.githubusercontent.com/117139528/218326386-eeb5948c-8911-4925-b294-069c048fe8af.jpg
 
-	Front-End:  Styling Index Page and Reformatting Table Layout
+	Front-End  Styling Index Page and Reformatting Table Layout
 
 		This Story rather drastically altered the Html and Css for the Index page.  The basic information provided as a result of the scaffolding was 
 		formatted into a table which organized the respecive items in a manner disagreeable to the customer's needs.  It required the below noted Back-End 
@@ -48,14 +47,12 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 
 
 
-	Back-End:  Adding Description Parameter to initial Database and Updating Controller
+	Back-End  Adding Description Parameter to initial Database and Updating Controller
 
 		This Story introduced a change to the original database.  I needed to dive into the class and add a parameter for Descriptions, and then update 
 		the view controller to pass the additional parameter as was required.  The first story Back-End code snippet demonstrates the class that was later
 		modified.
 			
-
-
 The 
 ![alt text](https://github.com/TRK360/C_Sharp-Projects/commit/4856212f2f5495149df5054f52d1f8023cf977b8)
 Live Project experience introduced several additional forms of training beyond the specifics of Code Syntax and Development process basics.  Utilizing Azure 
