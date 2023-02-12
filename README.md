@@ -54,7 +54,7 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 		modified.
 			
 The 
-![alt text](https://github.com/TRK360/C_Sharp-Projects/commit/4856212f2f5495149df5054f52d1f8023cf977b8)
+![alt text](https://github.com/TRK360/C_Sharp-Projects/commit/4856212f2f5495149df5054f52d1f8023cf977b8)[x](https://github.com/TRK360/C_Sharp-Projects/commit/4856212f2f5495149df5054f52d1f8023cf977b8)
 Live Project experience introduced several additional forms of training beyond the specifics of Code Syntax and Development process basics.  Utilizing Azure 
 DevOps via their web portal, whilst also using a server on Discord to manage day to day team communications, a much more solid comprehension of how a Dev team 
 behaves and functions was learned.  Furthermore, frequent use of Git Changes, commits, merges and the necessary consciensciousness of other people's work really 
