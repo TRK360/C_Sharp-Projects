@@ -31,7 +31,9 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 		
 ![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg)
 
-<!img src="[http://....jpg](https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg)](https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg)" width="170" height="200"/>
+![<img src="[https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg width="30" />)](https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg)
+
+
 	
 			
 ![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet2.jpg)
