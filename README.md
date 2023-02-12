@@ -32,9 +32,10 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 ![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg)
 
 
+<div>
 
-![<img src="[https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg">](https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg){width=123px}
-
+![<img src="[https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg" width="500" height="300"/>>](https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg)
+</div>
 
 
 	
