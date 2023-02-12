@@ -1,3 +1,5 @@
+
+## Project Synapeses
 As my time comes to a close with The Tech Academy, I want to offer a detailed explanation of the education earned in the Live Project for the C# and .NET Boot 
 Camp.  First, the Live Project is intended to cumulate much or all of the knowledge gained in the whole Boot Camp.  Secondly, the Live project is in the context 
 of a real-life development team environment.  The scope of work for my Live Project experience aimed at a client, with demand for a Back End setup to accommodate 
@@ -7,7 +9,10 @@ portion of the website included building a code first database to house the info
 existing website.  The intent was to make User Forms that would accommodate the information needing entry to the website.
 <br /><br /><br />
 In the following scenarios, I will identify each with a preface of Front-End or Back-End referencing the specific scenario gaol.
-<br /><br />
+<br />
+## Case Studies
+
+<br />
 
 **- Back-End  Building Data Entity Model and scaffolding CRUD Pages -**
 
@@ -23,13 +28,14 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 
 <br />
 
-+ **- Styling Create and Edit Pages -**
+ **- Styling Create and Edit Pages -**
 
   This Story applied my CSS skills to modify the format of each of the elements pre-set by the scaffolding mentioned above.  I needed to create a 
   container class for all page elements, I then had to add several classes to modify elements such as input field border colors, font colors while 
   focused versus inactive all whilst adhering to a customer color scheme.  Please see some of the .CSS noted below.
 		
 <br />
+## Front-End Sample
 <img src="https://github.com/TRK360/C_Sharp-Projects/blob/main/ViewSnippet.jpg" width=400 align="right"/>
 			
 <img src="https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet2.jpg" width=450 align="left"/>
@@ -42,7 +48,7 @@ In the following scenarios, I will identify each with a preface of Front-End or 
   formatted into a table which organized the respecive items in a manner disagreeable to the customer's needs.  It required the below noted Back-End 
   changes as well as some If rule logic built into the Cshtml of the view page.  Please see code snippet below to control which information was 
   displayed.
-
+## Back-End Sample
 ![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet3.jpg)
 
 		
@@ -67,7 +73,12 @@ In the following scenarios, I will identify each with a preface of Front-End or 
   was demonstrated during the Live Project was very impactful in itself. 
  <br /> 
  <br />
- <br />
+ <br /># Table of Contents
+1. [Project Synapses](#Project Synapses)
+2. [Case Studies](#Case Studies)
+3. [Front-End Sample](#Front-End Sample)
+4. [Back-End Sample](#Back-End Sample)
+ 
  <br />
  <br />
 Footer
