@@ -20,7 +20,8 @@ existing website.  The intent was to make User Forms that would accommodate the 
   After confirming that the DataBase table was created with all of the proper Schema elements, nullables, primary key, etc. I then added a new 
   scaffolded item, selecting the MVC pre-determined views and was able to successfully generate several views and a controller all of which communicated 
   properly to the DataBase.
-  
+
+<br />
 
 **Front-End  Styling Create and Edit Pages-**
 
@@ -45,14 +46,14 @@ existing website.  The intent was to make User Forms that would accommodate the 
 		
   After updating the Back-End Items as well as a few of the front end itmes to control the end view result, I applied some CSS specifically to the 
   table contents as well as header elements.
-
+<br />
 
 **Back-End  Adding Description Parameter to initial Database and Updating Controller-**
 
   This Story introduced a change to the original database.  I needed to dive into the class and add a parameter for Descriptions, and then update 
   the view controller to pass the additional parameter as was required.  The first story Back-End code snippet demonstrates the class that was later
   modified.
-
+<br />
 
   The Live Project experience introduced several additional forms of training beyond the specifics of Code Syntax and Development process basics.  Utilizing Azure 
   DevOps via their web portal, whilst also using a server on Discord to manage day to day team communications, a much more solid comprehension of how a Dev team 
@@ -61,7 +62,7 @@ existing website.  The intent was to make User Forms that would accommodate the 
   efficiency during the live project.  Finally, with my personal background in working with, managing and directing large team efforts in fields of Architecture, 
   Mechanical Engineering and Facility/Plant Management, the sense of respect to obligations and deadlines demonstrated through the SCRUM management philosophy that 
   was demonstrated during the Live Project was very impactful in itself. 
-  
+ <br /> 
 Footer
 © 2023 GitHub, Inc.
 Footer navigation
