@@ -21,15 +21,16 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 **- Back-End  Building Data Entity Model and scaffolding CRUD Pages -**
 
   This Story introduced the core of the future work.  I received a Schema for generating a class which would produce a DataBase on a pre-determined 
-  SQL Server accessible to other parts of the Web MVC App. Per the code snippet below, as well as adding a Db Set Command in the Identity controller. 
+  SQL Server accessible to other parts of the Web MVC App. Per the code snippet below, as well as adding a Db Set Command in the Identity controller.
+  After confirming that the DataBase table was created with all of the proper Schema elements, nullables, primary key, etc. I then added a new 
+  scaffolded item, selecting the MVC pre-determined views and was able to successfully generate several views and a controller all of which communicated 
+  properly to the DataBase.
  
 
 ![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet1.jpg?raw=true)
 
-  After confirming that the DataBase table was created with all of the proper Schema elements, nullables, primary key, etc. I then added a new 
-  scaffolded item, selecting the MVC pre-determined views and was able to successfully generate several views and a controller all of which communicated 
-  properly to the DataBase.
-
+<br />
+<br />
 <br />
 
  **- Styling Create and Edit Pages -**
