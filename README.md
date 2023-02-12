@@ -11,6 +11,8 @@ existing website.  The intent was to make User Forms that would accommodate the 
 <br /><br /><br />
 In the following scenarios, I will identify each with a preface of Front-End or Back-End referencing the specific scenario gaol.
 <br />
+<br />
+
 ## Case Studies
 
 <br />
