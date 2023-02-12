@@ -54,12 +54,13 @@ In the following scenarios, I will identify each with a preface of Front-End or 
   changes as well as some If rule logic built into the Cshtml of the view page.  Please see code snippet below to control which information was 
   displayed.
   <br />
-## Back-End Sample
-![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet3.jpg)
-
 		
   After updating the Back-End Items as well as a few of the front end itmes to control the end view result, I applied some CSS specifically to the 
   table contents as well as header elements.
+  
+  ## Back-End Sample
+![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet3.jpg)
+
 <br />
 <br />
 <br />
