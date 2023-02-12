@@ -62,14 +62,15 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 ![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet3.jpg)
 
 <br />
-<br />
-<br />
 
 **- Back-End  Adding Description Parameter to initial Database and Updating Controller -**
 
   This Story introduced a change to the original database.  I needed to dive into the class and add a parameter for Descriptions, and then update 
   the view controller to pass the additional parameter as was required.  The first story Back-End code snippet demonstrates the class that was later
   modified.
+  
+<br />
+<br />
 <br />
 
   The Live Project experience introduced several additional forms of training beyond the specifics of Code Syntax and Development process basics.  Utilizing Azure 
@@ -81,7 +82,9 @@ In the following scenarios, I will identify each with a preface of Front-End or 
   was demonstrated during the Live Project was very impactful in itself. 
  <br /> 
  <br />
- <br /># Table of Contents
+ <br />
+ 
+ # Table of Contents
 1. [Project Synapses](#Project Synapses)
 2. [Case Studies](#Case Studies)
 3. [Front-End Sample](#Front-End Sample)
