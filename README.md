@@ -9,7 +9,6 @@ existing website.  The intent was to make User Forms that would accommodate the 
 In the following scenarios, I will identify each with a preface of Front-End or Back-End referencing the specific scenario gaol.
 
 Back-End  Building Data Entity Model and scaffolding CRUD Pages
-
 	This Story introduced the core of the future work.  I received a Schema for generating a class which would produce a DataBase on a pre-determined 
 	SQL Server accessible to other parts of the Web MVC App. Per the code snippet below, as well as adding a Db Set Command in the Identity controller. 
  
@@ -22,7 +21,6 @@ Back-End  Building Data Entity Model and scaffolding CRUD Pages
 
 
 Front-End  Styling Create and Edit Pages
-
 	This Story applied my CSS skills to modify the format of each of the elements pre-set by the scaffolding mentioned above.  I needed to create a 
 	container class for all page elements, I then had to add several classes to modify elements such as input field border colors, font colors while 
 	focused versus inactive all whilst adhering to a customer color scheme.  Please see some of the .CSS noted below.
@@ -33,7 +31,6 @@ Front-End  Styling Create and Edit Pages
 			![alt text](https://github.com/TRK360/C_Sharp-Projects/blob/main/Code Snippet 2.jpg)
 
 Front-End  Styling Index Page and Reformatting Table Layout
-
 	This Story rather drastically altered the Html and Css for the Index page.  The basic information provided as a result of the scaffolding was 
 	formatted into a table which organized the respecive items in a manner disagreeable to the customer's needs.  It required the below noted Back-End 
 	changes as well as some If rule logic built into the Cshtml of the view page.  Please see code snippet below to control which information was 
@@ -48,7 +45,6 @@ Front-End  Styling Index Page and Reformatting Table Layout
 
 
 Back-End  Adding Description Parameter to initial Database and Updating Controller
-
 	This Story introduced a change to the original database.  I needed to dive into the class and add a parameter for Descriptions, and then update 
 	the view controller to pass the additional parameter as was required.  The first story Back-End code snippet demonstrates the class that was later
 	modified.
