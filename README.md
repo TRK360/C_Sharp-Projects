@@ -28,10 +28,10 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 		container class for all page elements, I then had to add several classes to modify elements such as input field border colors, font colors while 
 		focused versus inactive all whilst adhering to a customer color scheme.  Please see some of the .CSS noted below.
 		
-			!(https://user-images.githubusercontent.com/117139528/218326366-99f30476-f643-4500-be74-14da9ee94bbe.jpg)
+			![alt image name](https://user-images.githubusercontent.com/117139528/218326366-99f30476-f643-4500-be74-14da9ee94bbe.jpg)
 	
 			
-			!https://user-images.githubusercontent.com/117139528/218326386-eeb5948c-8911-4925-b294-069c048fe8af.jpg
+			![alt image name]https://user-images.githubusercontent.com/117139528/218326386-eeb5948c-8911-4925-b294-069c048fe8af.jpg
 
 	Front-End:  Styling Index Page and Reformatting Table Layout
 
@@ -40,7 +40,7 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 		changes as well as some If rule logic built into the Cshtml of the view page.  Please see code snippet below to control which information was 
 		displayed.
 
-			https://user-images.githubusercontent.com/117139528/218326380-412b29ac-41a5-4c37-85ef-e4324f66e6bf.jpg
+			![image search api](https://user-images.githubusercontent.com/117139528/218326380-412b29ac-41a5-4c37-85ef-e4324f66e6bf.jpg)
 
 		
 		After updating the Back-End Items as well as a few of the front end itmes to control the end view result, I applied some CSS specifically to the 
