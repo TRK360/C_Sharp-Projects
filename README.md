@@ -42,7 +42,7 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 			
 <img src="https://github.com/TRK360/C_Sharp-Projects/blob/main/CodeSnippet2.jpg" width=450 align="left"/>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 **- Front-End  Styling Index Page and Reformatting Table Layout -**
 
