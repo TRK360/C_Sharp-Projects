@@ -14,23 +14,10 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 		This Story introduced the core of the future work.  I received a Schema for generating a class which would produce a DataBase on a pre-determined 
 		SQL Server accessible to other parts of the Web MVC App. Per the code snippet below, as well as adding a Db Set Command in the Identity controller. 
  
-			namespace TheatreCMS3.Areas.Prod.Models
-			{
-    			public class CalendarEvent
-    				{   
-        			[Key]public int EventId { get; set; }
-       				public string Title { get; set; }
-        			public DateTime StartDate { get; set; }
-        			public DateTime EndDate { get; set; }
-        			public DateTime? StartTime { get; set; }
-        			public DateTime? EndTime { get; set; }
-        			public bool AllDay { get; set; }
-        			public int TicketsAvailable { get; set; }
-        			public bool IsProduction { get; set; }
-        
-    				}
-			}		
-		
+
+			![Code Snippet 1](https://user-images.githubusercontent.com/117139528/218326398-c332bff8-bb0b-4857-8df4-4a2c3f2a0d5e.jpg)
+
+
 		After confirming that the DataBase table was created with all of the proper Schema elements, nullables, primary key, etc. I then added a new 
 		scaffolded item, selecting the MVC pre-determined views and was able to successfully generate several views and a controller all of which communicated 
 		properly to the DataBase.
@@ -42,53 +29,10 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 		container class for all page elements, I then had to add several classes to modify elements such as input field border colors, font colors while 
 		focused versus inactive all whilst adhering to a customer color scheme.  Please see some of the .CSS noted below.
 		
-			.calendarevents-create--container {
-    			background-color: var(--main-color);
-    			color: var(--light-color);
-    			width: 600px;
-    			text-align: left;
-    			font-weight: bold;
-    			border-radius: 6px;
-    			margin-left: auto;
-    			margin-right: auto;
-    			padding-bottom: 14px;
-    			padding-left: 10px;
-    			padding-right: 10px;
-			}
-
-			.calendarevents-create--headercenter {
-    			text-align: center;
-			}
-
-			.calendarevents-create--button {
-    			background-color: var(--secondary-color);
-    			color: var(--dark-color);
-    			text-align: center;
-    			font-weight: 900;
-    			font-size: larger;
-    			width: 549px;
-    			margin-left: auto;
-    			margin-right: auto;
-    			border-radius: 7px;
-    			border-style: hidden;
-			}
-
-			.calendar-events--inputfield {
-    			width: 549px;
-    			margin-left: auto;
-    			margin-right: auto;
-			}
-
-    			.calendar-events--inputfield:focus {
-        		color: var(--light-color);
-        		font-size: 21px;
-        		font-weight: 700;
-        		border: 4px solid;
-        		border-radius: 6px;
-        		border-color: var(--secondary-color--dark);
-        		background-color: var(--secondary-color);
-    			}
-
+			![ViewSnippet](https://user-images.githubusercontent.com/117139528/218326366-99f30476-f643-4500-be74-14da9ee94bbe.jpg)
+	
+			
+			![Code Snippet 2](https://user-images.githubusercontent.com/117139528/218326386-eeb5948c-8911-4925-b294-069c048fe8af.jpg)
 
 	Front-End:  Styling Index Page and Reformatting Table Layout
 
@@ -97,8 +41,8 @@ In the following scenarios, I will identify each with a preface of Front-End or 
 		changes as well as some If rule logic built into the Cshtml of the view page.  Please see code snippet below to control which information was 
 		displayed.
 
-			@(item.StartTime != null && item.EndTime != null ? item.StartTime.Value.ToString("h:mm") + "  -  " + item.EndTime.Value.ToString("h:mm tt") :
-			item.StartDate.ToString			("MMM dd") + "  -  " + item.EndDate.ToString("ddd") + ", " + item.EndDate.ToString("MMM dd"))
+			![Code Snippet 3](https://user-images.githubusercontent.com/117139528/218326380-412b29ac-41a5-4c37-85ef-e4324f66e6bf.jpg)
+
 		
 		After updating the Back-End Items as well as a few of the front end itmes to control the end view result, I applied some CSS specifically to the 
 		table contents as well as header elements.
