@@ -89,9 +89,11 @@ In the following scenarios, I will identify each with a preface of Front-End or 
  
  <br />
  Jump to: Project Synapses, Case Studies, Front-End Sample, Back-End Sample
+<br />
 
-see documentation [here](#Project Synapses)
- <br />
+see documentation [here](Project Synapses)
+
+ <br /><br />
 Footer
 © 2023 GitHub, Inc.
 Footer navigation
