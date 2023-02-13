@@ -82,10 +82,10 @@ In the following scenarios, I will identify each with a preface of Front-End or 
  <br />
  
  # Table of Contents
-1. [Project Synapses](#Project Synapses)
-2. [Case Studies](#Case Studies)
-3. [Front-End Sample](#Front-End Sample)
-4. [Back-End Sample](#Back-End Sample)
+1. [Project Synapses](#Project-Synapses)
+2. [Case Studies](#Case-Studies)
+3. [Front-End Sample](#Front-End-Sample)
+4. [Back-End Sample](#Back-End-Sample)
  
  <br />
  Jump to: Project Synapses, Case Studies, Front-End Sample, Back-End Sample
